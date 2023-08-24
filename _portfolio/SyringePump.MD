@@ -20,10 +20,13 @@ gallery:
 
 
 # Arduino Code
-```C
-// Syringe pump project 
-// Team Kibosh
-// Code by Julian Delgado
+```c
+/**
+* Syringe pump project 
+* Team Kibosh
+* @author Julian Delgado
+**/
+
 #include <AccelStepper.h>
 #include <FastLED.h>
 #define NUM_LEDS 14
