@@ -98,7 +98,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "assets/img/David_Headshot_web2.jpg"
-  bio              : "Senior Computer Science Undergraduate at Vanderbilt University"
+  bio              : "Computer Science @ Vanderbilt University"
   location         : "Nashville, TN"
   links:
     - label: "GitHub"
