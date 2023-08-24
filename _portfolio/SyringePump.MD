@@ -2,8 +2,7 @@
 title: "Syringe Pump"
 excerpt: "This syringe pump is capable of dispensing liquid at a minimum rate of 1 uL/min and maximum rate of 10 uL/min."
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  teaser: /assets/img/syringepump_3.png
 gallery:
   - url: /assets/img/syringe-pump-1.png
     image_path: /assets/img/syringe-pump-1.png
