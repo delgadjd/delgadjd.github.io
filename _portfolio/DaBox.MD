@@ -17,7 +17,4 @@ Our open-source software includes many modes unseen on traditional LED strips.
 * **Pomodoro Mode** Our take on the classic pomodoro timer. Enter the length of your LED strip and it will slowly fill over the course of 25 minutes. When the timer runs out, the strip will flash red indicating its time to take a break!
 * **Open Source** Simply clone our Github repo to begin developing modes of your own!
 
-# CAD Model
-<iframe src="https://myhub.autodesk360.com/ue2df0af5/shares/public/SH35dfcQT936092f0e437224cd558fdcdc2f?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-{% include gallery caption="Large Format 3D Printer Gallery" %}
+{% include gallery caption="DaBox Gallery" %}
