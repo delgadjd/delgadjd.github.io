@@ -7,6 +7,7 @@ header:
 gallery:
   - image_path: assets/img/lithub1.jpeg
   - image_path: assets/img/lithub2.jpeg
+  - image_path: assets/img/lithub3.jpeg
    
 ---
 
