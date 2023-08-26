@@ -16,8 +16,15 @@ header:
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e364dfa52f909527c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Off-the-shelf parts
+| Component   | Image |
+| ----------- | ----------- |
+| Part 1      | picture      |
+
 
 # 3D Printed Parts
+| Component   | Image |
+| ----------- | ----------- |
+| Part 1      | picture      |
 
 # Arduino Code
 ```c
