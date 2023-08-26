@@ -14,6 +14,13 @@ gallery:
     image_path: assets/img/Cyber-Scooter-3.jpg
     alt: "placeholder image 3"
 ---
+# Motivation
+  * Syringe pumps are mechanical tools powered by motors, employed to gradually deliver fluids within a specified timeframe. Their applications are diverse, particularly in medical contexts and healthcare establishments, where they are utilized to dispense medications and other compounds. They also find utility in research environments for tasks such as microfluidic experiments, biomedical studies, and chemical analyses.
+
+  * The advantages of syringe pumps encompass the prevention of contamination by minimizing the risk of fluid transfer between syringes. Furthermore, they facilitate the pumping of highly viscous fluids and exhibit a high degree of precision.
+
+  * While the underlying concept of syringe pumps is relatively straightforward, ready-made choices available on the market can be costly, with prices reaching several hundred dollars.
+
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ef16dcecf6fddeab5?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
