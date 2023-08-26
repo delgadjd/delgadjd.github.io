@@ -17,13 +17,13 @@ header:
 
 # Off-the-shelf parts
 | Component   | Image |
-| ----------- | ----------- |
+|-----------|----------|
 | Part 1      | picture      |
 
 
 # 3D Printed Parts
 | Component   | Image |
-| ----------- | ----------- |
+|-----------|-----------|
 | Part 1      | picture      |
 
 # Arduino Code
