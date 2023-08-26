@@ -39,20 +39,12 @@ header:
 
 |                 Component                 | Image |
 |:-----------------------------------------:|:-----:|
-|       Back Barrel Stabilizer (Lower)      |   #   |
-|       Back Barrel Stabilizer (Upper)      |   #   |
-|      Front Barrel Stabilizer (Lower)      |   #   |
-|      Front Barrel Stabilizer (Upper)      |   #   |
-|           Plunger Holder (Lower)          |   #   |
-|           Plunger Holder (Upper)          |   #   |
-|                Motor Mount                |   #   |
-|               Enclosure Box               |   #   |
-|                    Lid                    |   #   |
-|         Small Breadboard (Qty: 1)         |   #   |
-| Panel Mount Latching Push Button (Qty: 1) |   #   |
-|     Panel Mount Push Buttons (Qty: 2)     |   #   |
-|           Limit Switch (Qty: 1)           |   #   |
-|      RGB Common Cathode LED (Qty: 1)      |   #   |
+|      Syringe Wing Support (PLA)      |   ![](/assets/img/Wing_Support.png)           |
+|      Syringe End Support  (PLA)      |   ![](/assets/img/Syringe_Support.png)        |
+|      Carriage  (PLA)                 |   ![](/assets/img/Carriage.png)               |
+|      Motor Mounting Plate  (ABS)     |   ![](/assets/img/Motor-Mounting-Plate.png)   |
+|      Enclosure (PLA)                 |   ![](/assets/img/Syringe-pump-enclosure.png) |
+
 
 # Arduino Code
 ```c
