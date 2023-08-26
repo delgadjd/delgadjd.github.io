@@ -1,9 +1,6 @@
 ---
 title: "DaBox by SmartHub"
 excerpt: "A custom, modular, LED kit to start a party anywhere."
-header:
-  image: /assets/img/LF3DP-Banner-2.jpg
-  teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
 gallery:
   - image_path: assets/img/lithub1.jpeg
   - image_path: assets/img/lithub2.jpeg
