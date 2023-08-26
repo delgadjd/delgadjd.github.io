@@ -37,9 +37,22 @@ header:
 
 # 3D Printed Parts
 
-| Component   | Image |
-|-----------|-----------|
-| Part 1      | picture      |
+|                 Component                 | Image |
+|:-----------------------------------------:|:-----:|
+|       Back Barrel Stabilizer (Lower)      |   #   |
+|       Back Barrel Stabilizer (Upper)      |   #   |
+|      Front Barrel Stabilizer (Lower)      |   #   |
+|      Front Barrel Stabilizer (Upper)      |   #   |
+|           Plunger Holder (Lower)          |   #   |
+|           Plunger Holder (Upper)          |   #   |
+|                Motor Mount                |   #   |
+|               Enclosure Box               |   #   |
+|                    Lid                    |   #   |
+|         Small Breadboard (Qty: 1)         |   #   |
+| Panel Mount Latching Push Button (Qty: 1) |   #   |
+|     Panel Mount Push Buttons (Qty: 2)     |   #   |
+|           Limit Switch (Qty: 1)           |   #   |
+|      RGB Common Cathode LED (Qty: 1)      |   #   |
 
 # Arduino Code
 ```c
