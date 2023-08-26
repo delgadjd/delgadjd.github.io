@@ -19,7 +19,7 @@ header:
 
 |                                   Component                                   | Image |
 |:-----------------------------------------------------------------------------:|:-----:|
-|             200mm lead screw with 2mm pitch and 2mm lead (Qty: 1)             |   #   |
+|             200mm lead screw with 2mm pitch and 2mm lead (Qty: 1)             |   ![](assets/img/lead-screw.png)   |
 |                     1/4” x 8mm flexible coupling (Qty: 1)                     |   #   |
 |                  200mm linear rod with 8mm diameter (Qty: 1)                  |   #   |
 |              LM8UU Linear bearing for 8 mm diameter rod (Qty: 1)              |   #   |
