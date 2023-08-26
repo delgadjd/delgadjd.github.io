@@ -14,4 +14,4 @@ Our open-source software includes many modes unseen on traditional LED strips.
 * **Pomodoro Mode** Our take on the classic pomodoro timer. Enter the length of your LED strip and it will slowly fill over the course of 25 minutes. When the timer runs out, the strip will flash red indicating its time to take a break!
 * **Open Source** Simply clone our Github repo to begin developing modes of your own!
 
-{% include gallery caption="DaBox Gallery" %}
+{% include gallery %}
