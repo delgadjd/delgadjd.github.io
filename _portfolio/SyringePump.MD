@@ -15,6 +15,12 @@ header:
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e364dfa52f909527c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+# Operating Procedures
+  * Once plugged in, the initial flow rate can be set by turning the potentiometer clockwise/counter-clockwise.
+  * Press the black latching button to start/pause dispersal of liquid.
+  * To adjust initial position of syringe, use the two red push buttons to advance/retract the syringe. Note: This operation can only be completed while the syringe pump is idle.
+  * The syringe pump will stop automatically once dispersal is complete. Press the black latching button to put the pump in idle mode and retract the syringe to resume use.
+
 # Off-the-shelf parts
 
 |                                   Component                                   | Image |
@@ -33,6 +39,8 @@ header:
 |                       Panel Mount Push Buttons (Qty: 2)                       |   ![](/assets/img/push-button.png)            |
 |                             Limit Switch (Qty: 1)                             |   ![](/assets/img/limit-switch.png)           |
 |                        RGB Common Cathode LED (Qty: 1)                        |   ![](/assets/img/rgb-led.png)                |
+|                        10k Potentiometer (Qty: 1)                             |   ![](/assets/img/pot.png)                    |
+
 
 
 # 3D Printed Parts
