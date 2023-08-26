@@ -2,17 +2,7 @@
 title: "Syringe Pump"
 excerpt: "This syringe pump is capable of dispensing liquid at a minimum rate of 1 uL/min and maximum rate of 10 uL/min."
 header:
-  teaser: /assets/img/syringepump_3.png
-gallery:
-  - url: /assets/img/syringe-pump-1.png
-    image_path: /assets/img/syringe-pump-1.png
-    alt: "rendering of syringe pump"
-  - url: /assets/img/Cyber-Scooter-2.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
-    alt: "placeholder image 2"
-  - url: /assets/img/Cyber-Scooter-3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
-    alt: "placeholder image 3"
+  teaser: assets/img/Linear-Actuator-Assembly_2023-May-03_09-37-01AM-000_CustomizedView746686638_jpg.jpg
 ---
 # Motivation
   * Syringe pumps are mechanical tools powered by motors, employed to gradually deliver fluids within a specified timeframe. Their applications are diverse, particularly in medical contexts and healthcare establishments, where they are utilized to dispense medications and other compounds. They also find utility in research environments for tasks such as microfluidic experiments, biomedical studies, and chemical analyses.
@@ -24,6 +14,10 @@ gallery:
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e364dfa52f909527c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+# Off-the-shelf parts
+
+# 3D Printed Parts
 
 # Arduino Code
 ```c
