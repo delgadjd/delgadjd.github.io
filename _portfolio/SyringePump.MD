@@ -45,6 +45,8 @@ header:
 |      Motor Mounting Plate  (ABS)     |   ![](/assets/img/Motor-Mounting-Plate.png)   |
 |      Enclosure (PLA)                 |   ![](/assets/img/Syringe-pump-enclosure.png) |
 
+# Wiring Schematic
+<img src="/assets/img/syringepump_3.png"/>
 
 # Arduino Code
 ```c
