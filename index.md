@@ -12,7 +12,7 @@ excerpt: "Julian Delgado is an engineer with a passion for teaching and bringing
 feature_row:
   - image_path: assets/img/syringe-pump-1.png
     alt: "Syringe Pump"
-    title: [Syringe Pump]("/_portfolio/SyringePump.MD")
+    title: "Syringe Pump"
     excerpt: "Custom syringe pump built to precisely dispense fluids at a minimum rate of 1 uL/min."
 ---
 
